@@ -1,0 +1,3 @@
+" Automatically set permissions for .sh files
+" Copy or link to filetype.vim to enable autochmod for another filetype
+" Copied from http://superuser.com/questions/393311/vim-creating-files
